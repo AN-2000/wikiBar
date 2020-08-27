@@ -23,15 +23,24 @@ const Search = ()=>{
 
     };
 
-   
+        if(term && !results.length){
 
-        if(term)
-            search()
+            if(term)
+                search()
+            
+        }else{
 
-    
+            const timer = setTimeout(()=>{
+                if(term)
+                    search()
+            },500)
 
+
+            return ()=>{
+                clearTimeout(timer)
+            }
     
-    
+        }    
 
     },[term])
 
