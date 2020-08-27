@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "783ce95e2745500cb3d6d36b3cd55e37",
+    "revision": "c8af1dae7e444443aa3ffa87dd357399",
     "url": "/wikiBar/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wikiBar/static/js/2.3edd7e0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c8b9c954e557e5f1a47",
-    "url": "/wikiBar/static/js/main.c9eb41db.chunk.js"
+    "revision": "262e8870fe37879672dc",
+    "url": "/wikiBar/static/js/main.fde3edc8.chunk.js"
   },
   {
     "revision": "a10b237113f6279dea2f",

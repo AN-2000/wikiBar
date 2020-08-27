@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/wikiBar/static/js/main.c9eb41db.chunk.js",
-    "main.js.map": "/wikiBar/static/js/main.c9eb41db.chunk.js.map",
+    "main.js": "/wikiBar/static/js/main.fde3edc8.chunk.js",
+    "main.js.map": "/wikiBar/static/js/main.fde3edc8.chunk.js.map",
     "runtime-main.js": "/wikiBar/static/js/runtime-main.890250cc.js",
     "runtime-main.js.map": "/wikiBar/static/js/runtime-main.890250cc.js.map",
     "static/js/2.3edd7e0c.chunk.js": "/wikiBar/static/js/2.3edd7e0c.chunk.js",
     "static/js/2.3edd7e0c.chunk.js.map": "/wikiBar/static/js/2.3edd7e0c.chunk.js.map",
     "index.html": "/wikiBar/index.html",
-    "precache-manifest.6f48ef6bc5a034817a5516ce96d9b704.js": "/wikiBar/precache-manifest.6f48ef6bc5a034817a5516ce96d9b704.js",
+    "precache-manifest.ed17e2bb1d87d3353e3ecb95dedb0a80.js": "/wikiBar/precache-manifest.ed17e2bb1d87d3353e3ecb95dedb0a80.js",
     "service-worker.js": "/wikiBar/service-worker.js",
     "static/js/2.3edd7e0c.chunk.js.LICENSE.txt": "/wikiBar/static/js/2.3edd7e0c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.890250cc.js",
     "static/js/2.3edd7e0c.chunk.js",
-    "static/js/main.c9eb41db.chunk.js"
+    "static/js/main.fde3edc8.chunk.js"
   ]
 }
